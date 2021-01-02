@@ -17,9 +17,73 @@
       ],
       "repository": "https://github.com/adafruit/Adafruit_Sensor.git",
       "url": "https://github.com/adafruit/Adafruit_Sensor/archive/1.1.4.zip",
-      "archiveFileName": "1.1.4.zip",
+      "archiveFileName": "Adafruit_Sensor.zip",
        "size": 0,
       "checksum": "None"
-    }
+    },
+    {
+      "name": "DHT-sensor-library",
+      "version": "1.4.1",
+      "author": "None",
+      "maintainer": "None",
+      "sentence": "None",
+      "paragraph": "None",
+      "website": "None",
+      "category": "My_DHT_ESP32",
+      "architectures": [
+        "esp32"
+      ],
+      "types": [
+        "Partner"
+      ],
+      "repository": "https://github.com/adafruit/DHT-sensor-library.git",
+      "url": "https://github.com/adafruit/DHT-sensor-library/archive/1.4.1.zip",
+      "archiveFileName": "DHT-sensor-library.zip",
+       "size": 0,
+      "checksum": "None"
+    },
+    {
+      "name": "ESPAsyncWebServer",
+      "version": "latest",
+      "author": "None",
+      "maintainer": "None",
+      "sentence": "None",
+      "paragraph": "None",
+      "website": "None",
+      "category": "My_DHT_ESP32",
+      "architectures": [
+        "esp32"
+      ],
+      "types": [
+        "Partner"
+      ],
+      "repository": "https://github.com/me-no-dev/ESPAsyncWebServer.git",
+      "url": "https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip",
+      "archiveFileName": "ESPAsyncWebServer.zip",
+       "size": 0,
+      "checksum": "None"
+    },
+    {
+      "name": "AsyncTCP",
+      "version": "latest",
+      "author": "None",
+      "maintainer": "None",
+      "sentence": "None",
+      "paragraph": "None",
+      "website": "None",
+      "category": "My_DHT_ESP32",
+      "architectures": [
+        "esp32"
+      ],
+      "types": [
+        "Partner"
+      ],
+      "repository": "https://github.com/me-no-dev/AsyncTCP.git",
+      "url": "https://github.com/me-no-dev/AsyncTCP/archive/master.zip",
+      "archiveFileName": "AsyncTCP.zip",
+       "size": 0,
+      "checksum": "None"
+    },
+    
   ]
 }
