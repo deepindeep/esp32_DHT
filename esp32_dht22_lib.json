@@ -1,0 +1,23 @@
+{
+  "libraries": [
+    {
+      "name": "Adafruit_Sensor",
+      "version": "1.1.4",
+      "author": "None",
+      "maintainer": "None",
+      "sentence": "None",
+      "paragraph": "None",
+      "website": "None",
+      "category": "Sensors",
+      "architectures": [
+        "samd"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "https://github.com/adafruit/Adafruit_Sensor.git",
+      "url": "https://github.com/adafruit/Adafruit_Sensor/archive/1.1.4.zip",
+      "archiveFileName": "Adafruit_Sensor-1.1.4.zip"
+    }
+  ]
+}
