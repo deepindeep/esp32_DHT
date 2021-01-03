@@ -85,5 +85,26 @@
       "checksum": "None"
     },
     
+    {
+      "name": "ESP_WiFiManager",
+      "version": "latest",
+      "author": "None",
+      "maintainer": "None",
+      "sentence": "None",
+      "paragraph": "None",
+      "website": "None",
+      "category": "My_DHT_ESP32",
+      "architectures": [
+        "esp32"
+      ],
+      "types": [
+        "Partner"
+      ],
+      "repository": "https://github.com/khoih-prog/ESP_WiFiManager.git",
+      "url": "https://github.com/khoih-prog/ESP_WiFiManager/archive/v1.4.1.zip",
+      "archiveFileName": "ESP_WiFiManager.zip",
+       "size": 0,
+      "checksum": "None"
+    }
   ]
 }
